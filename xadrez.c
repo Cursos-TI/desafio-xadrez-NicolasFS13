@@ -32,7 +32,7 @@ int main (){
     printf("Quantidade de casas:");
     scanf("%d", &casasT);
     printf("\nTorre moveu para:\n");
-    movertorrre(casasT);
+    movertorre(casasT);
         break;
     case 2:
     printf("Quantidade de casa:");
